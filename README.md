@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sandhya Maraju 👋
 
-<!--
-**sandhyamaraju/sandhyamaraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- SQL
+
+## 🚀 Projects
+
+- Calculator
+- Movie Review Website
+- Tribute Page
+- Product Landing Page
+- Survey Form
+
+## 📚 Currently Learning
+
+- Web Development
+- Python
+- Java
+- Data Structures & Algorithms
+- GATE CSE Preparation
+
+## 📜 Certifications
+
+- freeCodeCamp Responsive Web Design
+- NPTEL Cloud Computing
+- Oracle Cloud Infrastructure AI Foundations
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/maraju-sandhya-2537a3282
